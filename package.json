@@ -1,0 +1,12 @@
+{
+  "name": "regex",
+  "version": "1.0.0",
+  "description": "Regular expressions (regex) are powerful tools used for pattern matching in strings. They are commonly used in search engines, text processing, and data validation. This tutorial will guide you through the basics of regex and provide examples to help you understand how to use them effectively.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
